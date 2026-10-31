@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Narouv 👋
 
-<!--
-**Narouv/Narouv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2DA8C7&vCenter=true&width=620&lines=Software+Engineering+student+%40+Hochschule+Heilbronn)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+I'm a **B.Sc. Software Engineering** student at Hochschule Heilbronn and a **42 Heilbronn** alumnus (Common Core + Cyber-Security Mastery). By day I study systems; in my repos I build them — from the syscall layer up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Security track:** eJPT in progress (White Test done) · AWS SAA in progress
+- **Focus on** C/C++ systems programming, Python, backend/infrastructure, offensive security
+
+<br>
+
+### **Tech Stack:**
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,bash,postgres,redis,nginx,docker,git,linux,aws,unity)](https://skillicons.dev)
+
+<br>
+
+<!--[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Narouv&layout=compact&hide_border=true)](https://github.com/stats-organization/github-stats-extended) -->
