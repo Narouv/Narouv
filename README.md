@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2DA8C7&vCenter=true&width=620&lines=Software+Engineering+student+%40+Hochschule+Heilbronn)](https://git.io/typing-svg)
 
-I'm a **B.Sc. Software Engineering** student at Hochschule Heilbronn and a **42 Heilbronn** alumnus (Common Core + Cyber-Security Mastery). By day I study systems; in my repos I build them — from the syscall layer up.
+I'm a **B.Sc. Software Engineering** student at Hochschule Heilbronn and a **42 Heilbronn** alumnus (Common Core + Cyber-Security Mastery).
 
 - **Security track:** eJPT in progress (White Test done) · AWS SAA in progress
 - **Focus on** C/C++ systems programming, Python, backend/infrastructure, offensive security
